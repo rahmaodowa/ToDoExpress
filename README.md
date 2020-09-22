@@ -1,6 +1,6 @@
 # ToDoExpress
 
-![ screenshot of application](FOcean.png)
+![ screenshot of application](todo.png)
 
 How It's Made:
 HTML, CSS, Javascript, EJS, node.JS MongoDB
